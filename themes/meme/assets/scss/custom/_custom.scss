@@ -1,0 +1,114 @@
+//Typography
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Monofett&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+// Typography
+
+// Nav
+
+.menu-item a:hover {
+    color: #bbaacd;
+}
+
+// Nav
+
+
+// Homepage
+.summary-title-link:hover {
+    color: #606746;
+}
+
+.post-meta a:hover {
+    color: #606746;
+}
+
+// Homepage
+
+// Below Post title icons
+.post-meta-icon {
+    filter: invert(34%) sepia(9%) saturate(2300%) hue-rotate(228deg) brightness(97%) contrast(89%);
+}
+
+// Below Post title icons
+
+// Posts List Page
+.list-part .list-item a:hover {
+    color: #606746;
+}
+
+.list-item:hover {
+    border-bottom: #606746;
+    border-color: #606746;
+    color: #606746;
+}
+
+.list-item::before:hover {
+    color: #606746;
+    background-color: #606746;
+}
+
+// Post List Page
+
+// Tag Page
+.tag-cloud-item:hover {
+    transform: scale(0.8);
+    color: unset;
+}
+
+.tag-cloud-item {
+    border: solid #d9d9dd;
+    border-radius: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+// Tag Page
+
+// Categories Page
+.category-item {
+    color: #607D3B;
+}
+
+.category-item:hover {
+    color: #bbaacd;
+}
+
+// Categories Page
+
+
+// footer
+
+.socials-item {
+    background-color: #adb095;
+}
+
+.socials-item:hover {
+    background-color: #606746;
+}
+
+// footer
+
+//post picture
+
+.author_avatar {
+    border-radius: 40px;
+}
+
+//Portfolio 
+.portfolio-link {
+    border: solid #d9d9dd;
+    border-radius: 45px;
+    transition: all 0.5s ease-out;
+}
+
+.portfolio-link:hover {
+    transform: scale(0.9);
+    transition: all 0.5s ease-in-out;
+    border-color: #bbaacd;
+}
+
+.portfolio-link a:hover {
+    color: #bbaacd;
+}
+
+//Portfolio

@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://sharas-bubbles.onrender.com"
+baseURL = "https://sharas-real-bubbles.onrender.com"
 title = "Shara's Bubbles"
 languageCode = "en"
 hasCJKLanguage = false

@@ -214,37 +214,44 @@ uglyURLs = false
         name = "Posts"
         weight = 2
         pre = "internal"
-        post = "archive"
+        post = ""
+    
     [[menu.main]]
         pageref = "/categories/"
         name = "Categories"
         weight = 3
         pre = "internal"
-        post = "th"
+        post = ""
+    
     [[menu.main]]
         pageref = "/tags/"
         name = "Tags"
         weight = 4
         pre = "internal"
-        post = "tags"
+        post = ""
+    
     [[menu.main]]
         pageref = "/about/"
         name = "About"
         weight = 5
         pre = "internal"
-        post = "user-circle"
+        post = ""
+    
     [[menu.main]]
          pageref = "portfolio"
          name = "Portfolio"
          weight = 6
          pre = "internal"
-         post = "code-branch"
+         post = ""
+    
     [[menu.main]]
         weight = 7
         identifier = "theme-switcher"
+    
     [[menu.main]]
         weight = 8
         identifier = "lang-switcher"
+    
     [[menu.main]]
         weight = 9
         identifier = "search"

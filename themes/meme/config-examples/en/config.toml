@@ -43,8 +43,8 @@ paginate = 5
 
 # URL related
 disablePathToLower = false
-relativeURLs = false
-uglyURLs = false
+relativeURLs = true
+uglyURLs = true
 
 # URL structure
 [permalinks]

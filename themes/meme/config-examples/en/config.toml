@@ -905,13 +905,13 @@ uglyURLs = false
     #       /images/meme.jpg
     #       (~/blog/static/images/meme.jpg)
 
-    enableImageHost = false
+    enableImageHost = true
 
-    imageHostURL = "https://example.com/"
+    imageHostURL = "https://www.dropbox.com/"
 
     # Replace the image link in the HTML
     # head meta also?
-    headAlso = false
+    headAlso = true
 
 
     ######################################
@@ -927,7 +927,7 @@ uglyURLs = false
     #       and the HTML code you add must
     #       start with `<video src="`
 
-    enableVideoHost = false
+    enableVideoHost = true
 
     videoHostURL = "https://example.com/"
 
@@ -1347,7 +1347,7 @@ uglyURLs = false
     # Note: render only in production
     #       environment
 
-    enableForceHTTPS = false
+    enableForceHTTPS = true
     # Note: use JavaScript for redirection.
     #       You can enable this if your
     #       server does not support forced

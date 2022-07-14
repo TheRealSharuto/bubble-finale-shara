@@ -4,7 +4,7 @@ date: 2022-07-07T13:00:47-04:00
 draft: false
 author: "Shara Belton"
 ---
-Hello world, my name is Shara (Shar - ruh)! I'm a 21 year old woman on the internet, blogging her experiences away. I mean... what else do you do when you do not have social media?
+Hello world, my name is Shara Belton (Shar - ruh Bell - tin)! I'm a 21 year old woman on the internet, blogging her experiences away. I mean... what else do you do when you do not have social media?
 
 <img src="Shara-selfie.png" alt="Picture of Shara" width="400" class="author_avatar"/>
 I am dedicated to blogging my journey into tech during a  difficult and rigorous career change. Originally, I was a Kinesiology major. However, after self-teaching how to code for a year, I decided to go back to school for a Computer Science major in Fall 2022! It is personally important to me that I learn a good foundation of computer science, in case I ever want to branch out of Software Engineering or leave the States.

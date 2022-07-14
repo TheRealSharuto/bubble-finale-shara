@@ -1,9 +1,9 @@
 ---
 title: "3 reasons you should start a blog when pivoting into tech"
 date: 2022-07-14T17:13:04-04:00
-draft: true
+draft: false
 author: "Shara Belton"
-tags: ["lifestyle","career"]
+tags: ["lifestyle","career","advice"]
 categories: ["Productivity"]
 ---
 <img src="/start-blog.png" alt="Picture of a clean desk with a laptop" width="650" class="cover_photo"/>

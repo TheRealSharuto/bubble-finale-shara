@@ -5,7 +5,7 @@ draft: false
 author: "Shara Belton"
 tags: ["lifestyle","career","advice"]
 categories: ["Productivity"]
-keywords: "Web Developer, Blogging for web developers, Shara Belton, Shara's Bubbles, Web Design Blog, blog, programming, Code, Learn how to code"
+keywords: ["Web Developer", "Blogging for web developers", "Shara Belton", "Shara's Bubbles", "Web Design Blog", "blog", "programming", "Code", "Learn how to code"]
 ---
 <img src="/posts/3-reasons-why-you-should-start-a-blog/start-blog.png" alt="Picture of a clean desk with a laptop" width="650" class="cover_photo"/>
 

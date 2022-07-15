@@ -8,7 +8,7 @@ categories: ["Productivity"]
 keywords: ["Web Developer", "Blogging for web developers", "Shara Belton", "Shara's Bubbles", "Web Design Blog", "blog", "programming", "Code", "Learn how to code"]
 ---
 
-![desk](/posts/3-reasons-why-you-should-start-a-blog/start-blog.png)
+![desk](/3-reasons-why-you-should-start-a-blog/start-blog.png)
 
 Recently, I came across interesting blogs online that would provide materials on learning how to code, cheat sheets (i.e. CSS, Git, Markdown), and professional development information. Then, whenever I had issues in particular courses and looked up information - I would always come across a blog of someone who had went through the course themselves.
 

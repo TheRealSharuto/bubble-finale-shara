@@ -359,7 +359,7 @@ uglyURLs = false
     siteLogo = "/Users/sharuto/quickstart/resources/_gen/images/bubblegal2-final.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "Shara's Bubbles is a blog by a woman named Shara Belton, who documents her tech journey, lifestyle, and financial tribulations and solutions."
+    siteDescription = "Shara's Bubbles is a blog by a woman named Shara Belton, who documents her tech journey, lifestyle, financial tribulations and solutions."
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
@@ -806,7 +806,7 @@ uglyURLs = false
     # Note: valid for the `posts` and
     #       `page` homepage layout only
 
-    postMetaDateFormat = "2006.1.2"
+    postMetaDateFormat = "1.2.2006"
     # ATTENTION: be sure to follow the
     #            specified format
     #            https://gohugo.io/functions/format/
@@ -910,7 +910,7 @@ uglyURLs = false
     #       /images/meme.jpg
     #       (~/blog/static/images/meme.jpg)
 
-    enableImageHost = true
+    enableImageHost = false
 
     imageHostURL = "./"
 

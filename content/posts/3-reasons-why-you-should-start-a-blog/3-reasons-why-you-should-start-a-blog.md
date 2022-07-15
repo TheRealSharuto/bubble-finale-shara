@@ -16,7 +16,7 @@ keywords:
 - Code
 - Learn how to code
 ---
-<img src="/start-blog.png" alt="Picture of a clean desk with a laptop" width="650" class="cover_photo"/>
+<img src="/posts/3-reasons-why-you-should-start-a-blog/start-blog.png" alt="Picture of a clean desk with a laptop" width="650" class="cover_photo"/>
 
 Recently, I came across interesting blogs online that would provide materials on learning how to code, cheat sheets (i.e. CSS, Git, Markdown), and professional development information. Then, whenever I had issues in particular courses and looked up information - I would always come across a blog of someone who had went through the course themselves.
 

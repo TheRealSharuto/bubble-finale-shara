@@ -44,7 +44,7 @@ paginate = 5
 # URL related
 disablePathToLower = false
 relativeURLs = true
-uglyURLs = true
+uglyURLs = false
 
 # URL structure
 [permalinks]
@@ -907,7 +907,7 @@ uglyURLs = true
 
     enableImageHost = true
 
-    imageHostURL = "https://www.dropbox.com/"
+    imageHostURL = "./"
 
     # Replace the image link in the HTML
     # head meta also?

@@ -1,21 +1,27 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}"{{ if and .Site.Params.enableDarkMode .Site.Params.overrideSystemPreferences }}{{ with .Site.Params.defaultTheme | default "light" }} data-theme="{{ . }}"{{ end }}{{ end }}>
-    {{ partial "head.html" . }}
-    <body>
-        <div class="container">
-            {{ partial "header.html" . }}
-            {{ if ne .Site.Params.headerLayout "flex" }}
-                {{ if or (and .IsHome .Site.Params.displayMenuInHome) (and (not .IsHome) .Site.Params.enableMenu) }}
-                    {{ partial "menu.html" . }}
-                {{ end }}
-                {{ partial "components/multilingual.html" . }}
-                {{ partial "components/dark-mode.html" . }}
-            {{ end }}
-            {{ block "main" . }}{{ end }}
-            {{ partial "components/back-to-top.html" . }}
-            {{ partial "footer.html" . }}
-        </div>
-        {{ partial "components/service-worker.html" . }}
-        {{ partial "third-party/script.html" . }}
-    </body>
+<html lang="{{ .Site.LanguageCode }}" {{ if and .Site.Params.enableDarkMode .Site.Params.overrideSystemPreferences }}{{
+    with .Site.Params.defaultTheme | default "light" }} data-theme="{{ . }}" {{ end }}{{ end }}>
+{{ partial "head.html" . }}
+
+<body>
+    <div class="container">
+        {{ partial "header.html" . }}
+        {{ if ne .Site.Params.headerLayout "flex" }}
+        {{ if or (and .IsHome .Site.Params.displayMenuInHome) (and (not .IsHome) .Site.Params.enableMenu) }}
+        {{ partial "menu.html" . }}
+        {{ end }}
+        {{ partial "components/multilingual.html" . }}
+        {{ partial "components/dark-mode.html" . }}
+        {{ end }}
+        {{ if .Site.Params.gtm_id}}<noscript><iframe
+                src="//www.googletagmanager.com/ns.html?id={{ .Site.Params.gtm_id }}" height="0" width="0"
+                style="display:none;visibility:hidden"></iframe></noscript>{{ end }}
+        {{ block "main" . }}{{ end }}
+        {{ partial "components/back-to-top.html" . }}
+        {{ partial "footer.html" . }}
+    </div>
+    {{ partial "components/service-worker.html" . }}
+    {{ partial "third-party/script.html" . }}
+</body>
+
 </html>

@@ -16,7 +16,7 @@ One day I decided to look at the about me page of someone who had [posted inform
 
 After doing a few pretend blog posts on notion for practice and researching online, I found it interesting enough to write a post about why us tech newbies should start a blog! This is my <i>first</i> post! (I may or may not be motivating myselfn with this article...)
 
-<h2> 1. Genius level info retainage 🧠</h2>
+<h2> 1. genius level info retainage 🧠</h2>
 
 Have you ever went back to an old project and wish you remembered exactly what you did? Well, documenting how and why you have done a project in the past can help!
 
@@ -26,7 +26,7 @@ Have you ever went back to an old project and wish you remembered exactly what y
 
 Their answer is that teaching the information itself helped them remember. Many university articles such as [this one](https://medicine.llu.edu/academics/resources/brain-based-techniques-retention-information) also explain this concept. Writing blog posts in a way that you are reteaching what you have just learned or discovered is an incredible way to commit that information to memory.
 
-<h2> 2. More money in your pocket 💰</h2>
+<h2> 2. more money in your pocket 💰</h2>
 
 It can be hard enough to be motivated to blog when you come home from work to do MORE work. However, what if a part of that work was also making you money like your job?
 
@@ -38,7 +38,7 @@ b. After a few posts, you can [start using Google Adsense](https://support.googl
 
 However, your goal does not have to be to make money from your blog. Blogging can definetly help you reach a more career-oriented goal 👇🏾.
 
-<h2> 3. #BreakIntoTech made easier! 📈</h2>
+<h2> 3. #breakintotech made easier! 📈</h2>
 
 Are you looking for a way to get noticed by recruiters in your tech journey? Well, blogging your self-teaching practices will definetly help!
 

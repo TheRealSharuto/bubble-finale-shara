@@ -603,8 +603,8 @@ uglyURLs = false
     autoLoadComments = true
 
     ## Disqus
-    enableDisqus = true
-    disqusShortname = "sharas-bubbles"
+    enableDisqus = false
+    disqusShortname = ""
 
     ## Valine
     enableValine = false

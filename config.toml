@@ -658,11 +658,11 @@ uglyURLs = false
     #       has a higher priority than here
 
     # directly load the comments after pages loaded
-    autoLoadComments = false
+    autoLoadComments = true
 
     ## Disqus
     enableDisqus = false
-    disqusShortname = "sharas-bubbles"
+    disqusShortname = ""
 
     ## Valine
     enableValine = false

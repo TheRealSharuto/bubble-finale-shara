@@ -687,7 +687,7 @@ uglyURLs = false
 
     ## Utterances
     enableUtterances = true
-    utterancesRepo = "bubble-finale-shara"
+    utterancesRepo = "TheRealSharuto/bubble-finale-shara"
     utterancesIssueTerm = "pathname"
     utterancesTheme = "github-light"
     utterancesThemeDark = "photon-dark"

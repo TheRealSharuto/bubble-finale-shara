@@ -661,7 +661,7 @@ uglyURLs = false
     autoLoadComments = false
 
     ## Disqus
-    enableDisqus = true
+    enableDisqus = false
     disqusShortname = "sharas-bubbles"
 
     ## Valine
@@ -686,12 +686,12 @@ uglyURLs = false
     # Note: https://valine.js.org/
 
     ## Utterances
-    enableUtterances = false
-    utterancesRepo = ""
+    enableUtterances = true
+    utterancesRepo = "bubble-finale-shara"
     utterancesIssueTerm = "pathname"
     utterancesTheme = "github-light"
     utterancesThemeDark = "photon-dark"
-    utterancesLabel = ""
+    utterancesLabel = "✨💬✨"
     # Note: https://utteranc.es/
 
     ## Gitalk

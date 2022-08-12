@@ -14,7 +14,7 @@ For the past week, I have been grinding hard on my projects and creating this bl
 <h1> 1. no commands working in my terminal! </h1>
 
 I was trying to download Python to start working, and then this started happening…
-![Screenshot of code](/4-frustrating-errors-Ive-encountered-in-my-coding-practice-and-how-I-fixed-them/Screenshot-3.png)
+![Screenshot of Mac OS terminal](/4-frustrating-errors-Ive-encountered-in-my-coding-practice-and-how-I-fixed-them/Screenshot-3.png)
 
 ```
 zsh:command not found: rm
@@ -37,7 +37,7 @@ Copy & paste this and watch the magic happen:
 export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 ```
 
-![Screenshot of code](/4-frustrating-errors-Ive-encountered-in-my-coding-practice-and-how-I-fixed-them/Screenshot-4.png)
+![Screenshot of Mac OS terminal](/4-frustrating-errors-Ive-encountered-in-my-coding-practice-and-how-I-fixed-them/Screenshot-4.png)
 
 Abracadabra.
 
@@ -134,7 +134,7 @@ Code:
 
 Folder Structure:
 
-<img src="/4-frustrating-errors-Ive-encountered-in-my-coding-practice-and-how-I-fixed-them/Folder%20Structure.png" alt="Screenshot of folder structure" width="400"/>
+<img src="/4-frustrating-errors-Ive-encountered-in-my-coding-practice-and-how-I-fixed-them/Folder%20Structure.png" alt="VSCode blog folder structure" width="400"/>
 
 For posts, my image has to be under the static folder or it will not work. Static gets processed as the root of your project though, so you should not add /static/ into your link or it will STILL not work.
 
@@ -145,7 +145,7 @@ For posts, my image has to be under the static folder or it will not work. Stati
 ```
 <b> Folder Structure:</b>
 
-<img src="/4-frustrating-errors-Ive-encountered-in-my-coding-practice-and-how-I-fixed-them/FolderStructure2.png" alt="Screenshot of folder structure" width="400"/>
+<img src="/4-frustrating-errors-Ive-encountered-in-my-coding-practice-and-how-I-fixed-them/FolderStructure2.png" alt="VSCode Blog folder structure" width="400"/>
 
 <h1> 4. i need to remove index.html and .html from my static site! how??? </h1>
 
@@ -153,7 +153,7 @@ During my internet research I have seen so many ways of doing this. However, I n
 
 1. Create a file called .htaccess. You can do this in Visual Studio Code.
 
-<img src="/4-frustrating-errors-Ive-encountered-in-my-coding-practice-and-how-I-fixed-them/htaccess.png" alt="Screenshot of created .htaccess folder" width="400"/>
+<img src="/4-frustrating-errors-Ive-encountered-in-my-coding-practice-and-how-I-fixed-them/htaccess.png" alt=".htaccess folder in VS Code" width="400"/>
 
 Here is the copy and paste code with mini explanations: 
 

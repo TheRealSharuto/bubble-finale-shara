@@ -42,7 +42,7 @@ To counter these issues, I’ve found that instrumental music, alpha waves, and 
 
 ## 🎧 instrumentals
 
-![Lo-fi drawn on a steamy window](https://ucarecdn.com/cd73a672-76f8-4b94-919f-21136740e235/-/preview/-/quality/smart/)
+![Lo-fi drawn on a steamy window](https://ucarecdn.com/27ecdead-e778-4016-b0d6-635b6a24419c/-/preview/-/quality/smart/)
 
 Instrumental music I usually dabble in consists of anime and movie soundtracks, lofi hip hop beats, and classical music. I save this for creative driven tasks because listening to different sounds put creative ideas into my head, enabling me to use my artistic skills on my projects and writing activities.
 

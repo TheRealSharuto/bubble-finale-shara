@@ -744,7 +744,7 @@ uglyURLs = false
     enableGoogleAutoAds = true
 
     ## Ad Units
-    enableGoogleAdUnits = false
+    enableGoogleAdUnits = true
     googleAdSlot = ""
 
 

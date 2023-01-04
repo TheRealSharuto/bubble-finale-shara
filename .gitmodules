@@ -1,3 +1,6 @@
 [submodule "meme"]
 	path = meme
 	url = https://github.com/TheRealSharuto/meme.git
+[submodule "themes/shara-edits-blowfish"]
+	path = themes/shara-edits-blowfish
+	url = https://github.com/TheRealSharuto/shara-edits-blowfish.git
